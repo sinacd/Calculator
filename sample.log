@@ -1,0 +1,7 @@
+2023-07-22 19:09:34,439:root:the error is division by zero
+2023-07-22 19:09:34,440:root:the totalExpression is 9/0=
+2023-07-22 19:09:34,440:root:the currentExpression is 0
+2023-07-22 19:09:34,440:root:previousOprator  is /
+2023-07-22 19:09:34,440:root:previousOperand  is 0
+2023-07-22 19:09:34,440:root:previousOperand  is []
+2023-07-22 19:09:34,440:root:==========================================================
