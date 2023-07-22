@@ -11,9 +11,9 @@ Mini size             |  Full size
 
 
 ## Create exe file 
-use exe file in the repo or the code below in pycharm terminal to get exe file
+use the command below in pycharm terminal to get exe file
 
 ```shell
 pip install pyinstaller
-pyinstaller --onefile -w calc.py
+pyinstaller --onefile -w Calculator.py 
 ```
